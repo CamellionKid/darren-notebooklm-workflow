@@ -1,0 +1,4 @@
+interface:
+  display_name: "Darren NotebookLM Workflow"
+  short_description: "用 NotebookLM 分层追问并写入 Obsidian"
+  default_prompt: "Use $darren-notebooklm-workflow to run a staged NotebookLM reading workflow, capture the Q&A ladder, and save the result into Obsidian."
